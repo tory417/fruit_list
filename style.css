@@ -1,0 +1,29 @@
+body{
+	background-color: #f5f5f5;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	width: 600px;
+	margin:30px;
+	background-color: #ed9eae;
+	color:white;
+	font-size: 20px;
+	padding: 10px;
+	font-family: Segoe UI;
+}
+ol{
+	list-style-position: inside;
+}
+li.block{
+	margin:20px 20px 20px 0px;
+	padding-left: 10px;
+	background-color: #c66376;
+	height: 35px;
+}
+span{
+	background-color: #9e354a;
+	padding: 0px 15px 8px 15px;
+}
+
